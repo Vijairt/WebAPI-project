@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qB50yHpR70E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rohit\\Contemp Programming (Git Out)\\ContempProgrammingApi\\ContempProgrammingApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rohit\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\rohit\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
